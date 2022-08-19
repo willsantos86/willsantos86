@@ -5,8 +5,10 @@
 [![Instagran](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078388701045)
 
 ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=willsantos86&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willsantos86)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou me desenvolvendo.
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
