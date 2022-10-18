@@ -18,4 +18,4 @@
 </div>
 
 
-Estudante de desenvolvimento com Python.
+Student Python Development.
