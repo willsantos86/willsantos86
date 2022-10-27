@@ -22,7 +22,7 @@
 </div>
 
 
-## Granduando em Engenharia de software.
+## Granduando em Engenharia de Software.
 
 ## Email para contato:
 willsantos.edf@gmail.com
