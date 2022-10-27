@@ -5,7 +5,7 @@
 [![Instagran](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078388701045)
 
 ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=willsantos86&show_icons=true&theme=merko)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willsantos86)](https://github.com/willsantos86/github-readme-stats)
+
 
 
 ## Aperfeiçoando o conhecimento nas tecnologias.
@@ -22,7 +22,7 @@
 </div>
 
 
-Granduando em Engenharia de software.
+## Granduando em Engenharia de software.
 
 ## Email para contato:
 willsantos.edf@gmail.com
