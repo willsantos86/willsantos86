@@ -39,7 +39,11 @@ willsantos.edf@gmail.com -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsantos86&layout=compact&hide_border=true&title_color=00FA9A&text_color=00FA9A&bg_color=0d1117" />
 </div>
 <br>
+
+
 <div align="left"> 
+  
+### Contatos:
 <a href="https://www.linkedin.com/in/willsantos86" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"  target="_blank"></a> 
 <a href="https://www.instagram.com/willsantos_86" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>
 <a href="https://www.facebook.com/profile.php?id=100078388701045" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" style="border-radius: 30px"></a>
@@ -48,7 +52,7 @@ willsantos.edf@gmail.com -->
   
  </div>
  
- ### Skills:
+ ### Habilidades:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Scrapy](https://img.shields.io/badge/Scrapy-00C300?style=for-the-badge&logo=&logoColor=white)&nbsp;
