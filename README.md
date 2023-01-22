@@ -28,7 +28,7 @@
 ## Granduando em Engenharia de Software.
 
 ## Email para contato:
-willsantos.edf@gmail.com -->
+willsantos.edf@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
