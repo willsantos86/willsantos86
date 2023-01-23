@@ -10,7 +10,8 @@
 </div>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=willsantos86&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=willsantos86&theme=github-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 <div align="left"> 
   
 ### Contatos:
